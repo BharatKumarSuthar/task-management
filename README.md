@@ -1,16 +1,12 @@
 # task_management
 
-A new Flutter project.
+third party libraries-
+#RiverPod -state management
+#sqflite -database for local data storage
 
-## Getting Started
+Home screen -where list of tasks and we can perform CRUD operation like add,edit,delete
+This project follows MVVM architecture and proper folder struture
 
-This project is a starting point for a Flutter application.
+Applied responsiveness 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
